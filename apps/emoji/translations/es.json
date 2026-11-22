@@ -1,0 +1,59 @@
+{
+  "apps": {
+    "emoji": {
+      "title": "Selector de emojis",
+      "search": "Buscar emojis, kaomojis o símbolos",
+      "search-gif": "Buscar GIF",
+      "hint": "Clic pega · Enter pega y cierra",
+      "tab": {
+        "emoji": "Emojis",
+        "gif": "GIF",
+        "kaomoji": "Kaomoji",
+        "symbols": "Símbolos"
+      },
+      "tone": {
+        "0": "Predeterminado",
+        "1": "Claro",
+        "2": "Claro medio",
+        "3": "Medio",
+        "4": "Oscuro medio",
+        "5": "Oscuro"
+      },
+      "gif": {
+        "loading": "Cargando GIF…",
+        "error": "No se pudieron cargar los GIF",
+        "empty": "No se encontraron GIF",
+        "offline": "El modo sin conexión está activado: no hay GIF"
+      },
+      "category": {
+        "all": "Todas",
+        "recent": "Recientes",
+        "people": "Caras y personas",
+        "animals": "Animales",
+        "nature": "Naturaleza",
+        "food": "Comida y bebida",
+        "travel": "Viajes y lugares",
+        "activity": "Actividades",
+        "objects": "Objetos",
+        "symbols": "Símbolos",
+        "flags": "Banderas",
+        "joy": "Alegría",
+        "love": "Amor",
+        "sad": "Tristeza",
+        "angry": "Enojo",
+        "surprise": "Sorpresa",
+        "shrug": "Duda",
+        "actions": "Acciones",
+        "arrows": "Flechas",
+        "math": "Matemáticas",
+        "currency": "Monedas",
+        "legal": "Legal",
+        "typography": "Tipografía",
+        "shapes": "Formas y marcas",
+        "greek": "Griego"
+      },
+      "inserted": "Pegado: {text}",
+      "close": "Cerrar"
+    }
+  }
+}

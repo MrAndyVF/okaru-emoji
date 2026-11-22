@@ -1,0 +1,2 @@
+option('tests', type: 'feature', value: 'auto', description: 'Compilar las pruebas')
+option('klipy_key', type: 'string', value: '', description: 'Clave de cliente de la API de Klipy (GIF); vacía = sin pestaña de GIF')

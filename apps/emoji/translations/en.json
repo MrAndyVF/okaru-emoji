@@ -1,0 +1,59 @@
+{
+  "apps": {
+    "emoji": {
+      "title": "Emoji Picker",
+      "search": "Search emojis, kaomojis or symbols",
+      "search-gif": "Search GIFs",
+      "hint": "Click pastes · Enter pastes and closes",
+      "tab": {
+        "emoji": "Emojis",
+        "gif": "GIF",
+        "kaomoji": "Kaomoji",
+        "symbols": "Symbols"
+      },
+      "tone": {
+        "0": "Default",
+        "1": "Light",
+        "2": "Medium-light",
+        "3": "Medium",
+        "4": "Medium-dark",
+        "5": "Dark"
+      },
+      "gif": {
+        "loading": "Loading GIFs…",
+        "error": "Couldn't load GIFs",
+        "empty": "No GIFs found",
+        "offline": "Offline mode is on: GIFs are unavailable"
+      },
+      "category": {
+        "all": "All",
+        "recent": "Recent",
+        "people": "Smileys & people",
+        "animals": "Animals",
+        "nature": "Nature",
+        "food": "Food & drink",
+        "travel": "Travel & places",
+        "activity": "Activities",
+        "objects": "Objects",
+        "symbols": "Symbols",
+        "flags": "Flags",
+        "joy": "Joy",
+        "love": "Love",
+        "sad": "Sadness",
+        "angry": "Anger",
+        "surprise": "Surprise",
+        "shrug": "Shrug & doubt",
+        "actions": "Actions",
+        "arrows": "Arrows",
+        "math": "Math",
+        "currency": "Currency",
+        "legal": "Legal",
+        "typography": "Typography",
+        "shapes": "Shapes & marks",
+        "greek": "Greek"
+      },
+      "inserted": "Pasted: {text}",
+      "close": "Close"
+    }
+  }
+}

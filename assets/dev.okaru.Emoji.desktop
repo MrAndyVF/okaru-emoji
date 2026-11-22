@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Version=1.5
+Name=Emoji Picker
+Name[es]=Selector de emojis
+GenericName=Emoji Picker
+GenericName[es]=Selector de emojis
+Comment=Emojis, GIFs, kaomojis and symbols, pasted where you were typing
+Comment[es]=Emojis, GIF, kaomojis y símbolos, pegados donde estabas escribiendo
+Keywords=emoji;gif;kaomoji;symbols;characters;unicode;
+Keywords[es]=emoji;gif;kaomoji;símbolos;caracteres;unicode;
+Exec=okaru-emoji
+Icon=face-smile
+Categories=Utility;
+StartupWMClass=dev.okaru.Emoji
+Terminal=false

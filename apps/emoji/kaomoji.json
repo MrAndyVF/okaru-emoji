@@ -1,0 +1,96 @@
+[
+  {"category": "joy", "items": [
+    {"text": "(＾▽＾)", "keywords": "happy feliz"},
+    {"text": "(◕‿◕)", "keywords": "happy smile feliz sonrisa"},
+    {"text": "ヽ(・∀・)ﾉ", "keywords": "happy yay feliz"},
+    {"text": "(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧", "keywords": "sparkle magic yay brillo magia"},
+    {"text": "(≧◡≦)", "keywords": "happy cute feliz tierno"},
+    {"text": "٩(◕‿◕)۶", "keywords": "happy cheer feliz"},
+    {"text": "(✿◠‿◠)", "keywords": "flower happy flor feliz"},
+    {"text": "＼(^o^)／", "keywords": "yay celebrate celebrar"},
+    {"text": "(^_^)", "keywords": "smile sonrisa"},
+    {"text": "(*^▽^*)", "keywords": "happy blush feliz"},
+    {"text": "o(≧▽≦)o", "keywords": "excited emocionado"},
+    {"text": "(ﾉ´ヮ`)ﾉ*: ･ﾟ", "keywords": "sparkle yay brillo"},
+    {"text": "(￣▽￣)ノ", "keywords": "wave hi hola saludo"},
+    {"text": "ᕕ( ᐛ )ᕗ", "keywords": "walk happy caminar feliz"}
+  ]},
+  {"category": "love", "items": [
+    {"text": "(♡°▽°♡)", "keywords": "love amor"},
+    {"text": "(´∀`)♡", "keywords": "love heart amor corazon"},
+    {"text": "(≧◡≦) ♡", "keywords": "love cute amor tierno"},
+    {"text": "(｡♥‿♥｡)", "keywords": "love eyes amor ojos"},
+    {"text": "(っ˘з(˘⌣˘ )", "keywords": "kiss beso"},
+    {"text": "(づ｡◕‿‿◕｡)づ", "keywords": "hug abrazo"},
+    {"text": "(つ≧▽≦)つ", "keywords": "hug abrazo"},
+    {"text": "♡(˃͈ દ ˂͈ ༶ )", "keywords": "love shy amor timido"},
+    {"text": "(˘³˘)♥", "keywords": "kiss beso"},
+    {"text": "( ˘ ³˘)♥", "keywords": "kiss beso"}
+  ]},
+  {"category": "sad", "items": [
+    {"text": "(╥﹏╥)", "keywords": "cry sad llorar triste"},
+    {"text": "(ಥ﹏ಥ)", "keywords": "cry llorar"},
+    {"text": "(T_T)", "keywords": "cry llorar"},
+    {"text": "(;﹏;)", "keywords": "sad triste"},
+    {"text": "(｡•́︿•̀｡)", "keywords": "sad pout triste"},
+    {"text": "(っ˘̩╭╮˘̩)っ", "keywords": "sad hug triste abrazo"},
+    {"text": "( ´•̥̥̥ω•̥̥̥` )", "keywords": "sad tears triste lagrimas"},
+    {"text": "(︶︹︺)", "keywords": "sad disappointed triste decepcion"},
+    {"text": "o(╥﹏╥)o", "keywords": "cry llorar"}
+  ]},
+  {"category": "angry", "items": [
+    {"text": "(╯°□°）╯︵ ┻━┻", "keywords": "table flip rage mesa enojo"},
+    {"text": "┬─┬ノ( º _ ºノ)", "keywords": "table unflip mesa calma"},
+    {"text": "(ノಠ益ಠ)ノ彡┻━┻", "keywords": "table flip rage mesa furia"},
+    {"text": "(ಠ_ಠ)", "keywords": "disapproval stare desaprobacion mirada"},
+    {"text": "(＃`Д´)", "keywords": "angry enojado"},
+    {"text": "(╬ Ò﹏Ó)", "keywords": "angry furioso"},
+    {"text": "ヽ(`⌒´メ)ノ", "keywords": "angry enojado"},
+    {"text": "(¬_¬)", "keywords": "annoyed side eye molesto"},
+    {"text": "(눈_눈)", "keywords": "annoyed stare molesto"}
+  ]},
+  {"category": "surprise", "items": [
+    {"text": "(°o°)", "keywords": "surprise sorpresa"},
+    {"text": "(⊙_⊙)", "keywords": "shock sorpresa"},
+    {"text": "Σ(°△°|||)", "keywords": "shock susto"},
+    {"text": "(O_O)", "keywords": "stare surprise sorpresa"},
+    {"text": "(；ﾟДﾟ)", "keywords": "shock susto"},
+    {"text": "w(°ｏ°)w", "keywords": "wow sorpresa"},
+    {"text": "(◎_◎;)", "keywords": "dizzy confused mareado confundido"}
+  ]},
+  {"category": "shrug", "items": [
+    {"text": "¯\\_(ツ)_/¯", "keywords": "shrug whatever encogerse da igual"},
+    {"text": "┐(￣ヘ￣)┌", "keywords": "shrug encogerse"},
+    {"text": "╮(￣ω￣;)╭", "keywords": "shrug encogerse"},
+    {"text": "(・_・;)", "keywords": "nervous sweat nervioso"},
+    {"text": "(￣～￣;)", "keywords": "thinking hmm pensando"},
+    {"text": "(・・ ) ?", "keywords": "confused question confundido pregunta"},
+    {"text": "(＠_＠)", "keywords": "dizzy mareado"}
+  ]},
+  {"category": "animals", "items": [
+    {"text": "ʕ•ᴥ•ʔ", "keywords": "bear oso"},
+    {"text": "ʕ·ᴥ·ʔ", "keywords": "bear oso"},
+    {"text": "(=^･ω･^=)", "keywords": "cat gato"},
+    {"text": "(=①ω①=)", "keywords": "cat gato"},
+    {"text": "ฅ^•ﻌ•^ฅ", "keywords": "cat paws gato patas"},
+    {"text": "U・ᴥ・U", "keywords": "dog perro"},
+    {"text": "(ᵔᴥᵔ)", "keywords": "dog bear perro oso"},
+    {"text": "(・θ・)", "keywords": "bird pajaro"},
+    {"text": "くコ:彡", "keywords": "squid calamar"},
+    {"text": "/ᐠ｡ꞈ｡ᐟ\\", "keywords": "cat gato"}
+  ]},
+  {"category": "actions", "items": [
+    {"text": "( •_•)>⌐■-■", "keywords": "sunglasses deal with it gafas"},
+    {"text": "(⌐■_■)", "keywords": "cool sunglasses gafas"},
+    {"text": "(ง'̀-'́)ง", "keywords": "fight pelea"},
+    {"text": "ᕦ(ò_óˇ)ᕤ", "keywords": "strong flex fuerte"},
+    {"text": "(～￣▽￣)～", "keywords": "dance bailar"},
+    {"text": "♪(┌・。・)┌", "keywords": "dance music bailar musica"},
+    {"text": "(－_－) zzZ", "keywords": "sleep dormir"},
+    {"text": "( ͡° ͜ʖ ͡°)", "keywords": "lenny smirk picaro"},
+    {"text": "(☞ﾟヮﾟ)☞", "keywords": "point you señalar tu"},
+    {"text": "☜(ﾟヮﾟ☜)", "keywords": "point you señalar tu"},
+    {"text": "(￣ー￣)ｂ", "keywords": "thumbs up good bien"},
+    {"text": "(*•̀ᴗ•́*)و ̑̑", "keywords": "determined go determinado"}
+  ]}
+]
