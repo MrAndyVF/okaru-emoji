@@ -635,8 +635,8 @@ namespace okaru::emoji {
     auto root = ui::node({.width = width, .height = height});
     root->addChild(ui::box({
         .fill = colorSpecFromRole(ColorRole::Surface),
-        .border = colorSpecFromRole(ColorRole::OutlineVariant),
-        .borderWidth = 1.0F,
+        .border = colorSpecFromRole(ColorRole::Primary), // OKARU: como los paneles
+        .borderWidth = Style::borderWidth,
         .radius = Style::scaledRadiusLg(scale),
         .width = width,
         .height = height,
