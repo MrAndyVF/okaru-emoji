@@ -1,6 +1,6 @@
 # okaru-emoji: compila la rama main del checkout (OKARU_EMOJI_REPO, por defecto ~/Projects/okaru-project/okaru-emoji).
 pkgname=okaru-emoji
-pkgver=1.0.0
+pkgver=1.0.1
 pkgrel=1
 pkgdesc='OKARU (郁): selector de emojis, GIF, kaomojis y símbolos'
 arch=(x86_64)
